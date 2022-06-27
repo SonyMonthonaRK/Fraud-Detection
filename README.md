@@ -54,8 +54,4 @@ Dividing the data into inputs parameters and outputs value format
 
 ![](Imagesfraud/9.png)
 
-16. Comparison with other algorithms without dealing with the imbalancing of the data.
-
-![](Imagesfraud/10.png)
-
 As you can see with our Random Forest Model we are getting a better result even for the recall which is the most tricky part. 
